@@ -31,17 +31,13 @@ The main files used for this analysis is cleaned from:
 
 # The Deliverables
 
-1. A well documented **Jupyter Notebook** 
-   https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/student.ipynb
-2. An organized **README.md** 
+1. A well documented [**Jupyter Notebook**](https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/student.ipynb)
+2. An organized [**README.md**](https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/edit/master/README.md)
    ~This current file you're reading
-   https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/edit/master/README.md
 3. A short **Keynote/PowerPoint/Google Slides presentation** 
    ~see inside video walkthrough
-4. **[A Blog Post]
-   https://timothywlim.medium.com/baby-steps-in-exploratory-data-analysis-eda-with-python-ac6843b30f76
-5. A **Video Walkthrough**
-   https://www.youtube.com/watch?v=6nYGXJSLJOQ
+4. [**A Blog Post**](https://timothywlim.medium.com/baby-steps-in-exploratory-data-analysis-eda-with-python-ac6843b30f76)
+5. [**A Video Walkthrough**](https://www.youtube.com/watch?v=6nYGXJSLJOQ)
 
 # Process
 The process can be break to following:
