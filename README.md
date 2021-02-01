@@ -34,7 +34,7 @@ The main files used for this analysis is cleaned from:
 1. A well documented **Jupyter Notebook** 
    https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/student.ipynb
 2. An organized **README.md** 
-   ~This current file you're reading~
+   ~This current file you're reading
    https://github.com/timothywlim/dsc-mod-1-project-v2-1-online-ds-sp-000/edit/master/README.md
 3. A short **Keynote/PowerPoint/Google Slides presentation** 
    ~see inside video walkthrough
@@ -52,5 +52,25 @@ The process can be break to following:
 5. Data Visualization
 6. Insights and Sumary
 
-## Summary
 
+# Tools
+Python, PANDAS, Matplotlib, Seaborn, datetime
+
+# Summary
+### Project Overview
+We focus on 3 topics of interest: \
+Movie Genre, Release Date, Budget\
+Questions considered: \
+1. What are the genre trends over the years? What are the genres combination should our client focus on making?
+2. What is the best time to release movies?
+3. How are the sales compared between domestic and worldwide?
+4. What is the benchmark rate of return to target?
+5. What are the forecast budget in a good movie? What are the risk?
+
+### Project Future Work
+1. We could find average budget break down by genre
+2. Comparing budgets, earnings and number of released movies of competing movie producers could help to gage the market share
+3. A more current datasets can be used to track recent movie streaming favorites
+
+### Project Thoughts
+This is a interesting project to get my feet wet in EDA using python. Coming from a background of analysing calculated data thorugh excel to this is overwhelming initially with the sheer ammount of information that one has to clean. If I have any advice for myself before starting the project would be: "Stay curious, be enthusiatic. Come up with a rough framework, focus through the walk, clean up and dig deeper as you go."
